@@ -1,0 +1,18 @@
+Semillas Elegidas: [1]
+
+SEMILLA ACTUAL: 1
+
+	DATOS LEIDOS: iris_set.dat
+		RESTRICCIONES: iris_set_const_10.const
+		LAMBDA: 0.006343058042584907
+				Tiempo de Ejecucion: segundos: 51.61904430389404 segundos
+				Desviacion: 0.11502172742837923
+				Infactibilidad: 0
+				Objetivo: 0.11502172742837923
+
+		RESTRICCIONES: iris_set_const_20.const
+		LAMBDA: 0.00317010999264758
+				Tiempo de Ejecucion: segundos: 26.361931324005127 segundos
+				Desviacion: 0.11502172742837923
+				Infactibilidad: 0
+				Objetivo: 0.11502172742837923
